@@ -18,12 +18,12 @@ class Header extends React.Component {
 					
 				<img className="image avatar" src={Avatar} alt="Logo" />
 			
-					<h1><strong>Carolina Flores</strong> <br />
+					<h1 ><strong>Carolina Flores</strong> <br />
                      
 					{/* crafted by */}
 					 {/* <link  to="http://loquesea.net">lo que sea</link>. */}
 					 </h1>
-					 <h1>Front-End Developer</h1>
+					 <h1 className="title1">Front-End Developer</h1>
 					 <ul className="icons">
 					 <li className="liIcons"><a href="https://linkedin.com/in/ivonne-carolina-pérez-flores-629843193/"><img className="logoInfo" src={Linkedin}  alt="Logo" /></a></li>
 					 <li className="liIcons"><a href="https://github.com/CarolinaPerezFlores"><img className="logoInfo" src={Github}  alt="Logo" /></a></li>

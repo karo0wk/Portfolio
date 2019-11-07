@@ -10,7 +10,7 @@ function App() {
     
 	<div> 
 	<Header></Header>
-<div className="containerInfo">
+    <div className="containerInfo">
 	<div className="sectionOne">
 	<Section></Section>
 	</div>
