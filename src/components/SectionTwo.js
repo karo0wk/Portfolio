@@ -2,7 +2,8 @@ import React from 'react';
 import '../Main.css';
 import Notes from '../images/proyects/notes2.jpg';
 import Card from './Card'
-import Cipher from '../images/proyects/cipher.jpg'
+// import Cipher from '../images/proyects/cipher.jpg'
+import ParachuteGame from '../images/proyects/skyPinetree.gif'
 import Burger from '../images/proyects/Burger.jpg'
 
 function SectionTwo() {
@@ -13,7 +14,7 @@ function SectionTwo() {
 							<Card title="Lab-Notes" description="A web-app to take notes." image={Notes} url="https://github.com/CarolinaPerezFlores/GDL003-lab-notes"/>
 							</div>
 							<div className="row">
-							<Card title="Projet Cipher" description="A web-app to encrypt and decrypt secret words." image={Cipher} url="https://github.com/CarolinaPerezFlores/GDL003-cipher"/>
+							<Card title="Parachute Game" description="A web-app to play in your cellphone." image={ParachuteGame} url="https://github.com/CarolinaPerezFlores/GDL003-cipher"/>
 							</div>
 							<div className="row">
 							<Card title="Burger Queen" description="A Web-App, for ordering restaurants." image={Burger} url="https://github.com/CarolinaPerezFlores/GDL003-Burger-Queen-Back-End"/>

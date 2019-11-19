@@ -9,7 +9,8 @@ function Section() {
         </header>
         <p className="desc">
 I am persistent and honest. <br />
- Passionate about making improvements and innovation,<br /> and constant self-learning.</p>
+ Passionate about making improvements and innovation,<br />always in
+Constant Learning.</p>
         <ul>
             {/* <link>< className="button">Learn More</to></link> */}
         </ul>
