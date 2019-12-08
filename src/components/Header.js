@@ -28,7 +28,7 @@ class Header extends React.Component {
 					 <li className="liIcons"><a href="https://linkedin.com/in/ivonne-carolina-pérez-flores-629843193/"><img className="logoInfo" src={Linkedin}  alt="Logo" /></a></li>
 					 <li className="liIcons"><a href="https://github.com/CarolinaPerezFlores"><img className="logoInfo" src={Github}  alt="Logo" /></a></li>
 					 {/* <li><a href="linkedin.com/in/ivonne-carolina-pérez-flores-629843193"><img className="logoInfo" src={Mail}  alt="Logo" /></a></li> */}
-					 <li className="liIcons"><a href="https://drive.google.com/file/d/0B6-tH-LYKEJcdnBab3loVnl6MHJiNmNCb2JWUHVQdEliYWQ4/view?usp=sharing"><img className="logoInfo" src={Cv}  alt="Logo" /></a></li>
+					 <li className="liIcons"><a href="https://drive.google.com/file/d/1nUy1vWuEio6kyCpB55PNTaYKS8-APgAM/view?usp=sharing"><img className="logoInfo" src={Cv}  alt="Logo" /></a></li>
 					 </ul>
 				</div>
 			</div>
