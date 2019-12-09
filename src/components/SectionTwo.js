@@ -16,7 +16,7 @@ function SectionTwo() {
 							</div>
 							<div className="row">
 							<Card title="Parachute Game" description="This application designed for cell phones gives you the ability to play to save the paratrooper before it falls." 
-							tools="For this project were used: React Native" image={ParachuteGame} url="https://github.com/CarolinaPerezFlores/GDL003-cipher"/>
+							tools="For this project were used: React Native" image={ParachuteGame} url="https://snack.expo.io/@karo0k/11c1ef"/>
 							</div>
 							<div className="row">
 							<Card title="Burger Queen" description="A Web-App, to take orders in restaurants, all electronically. This application can facilitate the process of an order, mainly shows the menus and products offered to the customer, can create, add, delete orders, and finally make a total sum of the cost of the products provided." 
