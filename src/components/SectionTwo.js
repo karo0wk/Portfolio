@@ -12,7 +12,7 @@ function SectionTwo() {
 						<h2>Recent Work</h2>
 						    <div className="row">
 							<Card title="Take Notes" description="This is a web-app that allows you to make notes, save them in a database and edit them." 
-							tools="For this project were used: React.js, Firebase, and Bootstrap." image={Notes} url="https://github.com/CarolinaPerezFlores/GDL003-lab-notes"/>
+							tools="For this project were used: React.js, Firebase, and Bootstrap." image={Notes} url="https://carolinaperezflores.github.io/GDL003-lab-notes/"/>
 							</div>
 							<div className="row">
 							<Card title="Parachute Game" description="This application designed for cell phones gives you the ability to play to save the paratrooper before it falls." 
