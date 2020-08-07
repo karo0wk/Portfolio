@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5085d7c52eaa77ac9d7db4be7e2ac76c",
+    "revision": "f3b6b1ad5fe9dcad592809fca06bbb2c",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "39095ccbdcdd4b7f11a8",
+    "revision": "4f4b847cc7ed7fdabf68",
     "url": "/portfolio/static/css/main.6fe1e0df.chunk.css"
   },
   {
-    "revision": "0213e7237743aadcb2ad",
-    "url": "/portfolio/static/js/2.6d9e8b9e.chunk.js"
+    "revision": "8c2973a88c0006898047",
+    "url": "/portfolio/static/js/2.ddac7945.chunk.js"
   },
   {
-    "revision": "39095ccbdcdd4b7f11a8",
-    "url": "/portfolio/static/js/main.70818b43.chunk.js"
+    "revision": "4f4b847cc7ed7fdabf68",
+    "url": "/portfolio/static/js/main.78f5cf3c.chunk.js"
   },
   {
     "revision": "a46b3fd8f34f8691f45e",
@@ -24,8 +24,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/Avatar.0f9eae63.jpg"
   },
   {
-    "revision": "f4eb53191ac55a0208465125d7f978e4",
-    "url": "/portfolio/static/media/Burger.f4eb5319.jpg"
+    "revision": "76488a13fa5bb9a76c4d02bdca77f835",
+    "url": "/portfolio/static/media/arte.76488a13.jpg"
+  },
+  {
+    "revision": "25d8c91a7b0bf6fc3336a580a7f6067c",
+    "url": "/portfolio/static/media/fondo_fee_1.25d8c91a.jpg"
   },
   {
     "revision": "993a88814e99b2bb4b9be71098c0e132",
