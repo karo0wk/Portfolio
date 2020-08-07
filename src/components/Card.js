@@ -5,7 +5,7 @@ class Card extends React.Component {
     return(
         <article className="columnOne">
 								<div className="Thumb">
-								<a href={this.props.url}><img  className="imageTipe" src={this.props.image} alt="Logo" /></a>
+								<a target="_blanck_" href={this.props.url}><img  className="imageTipe" src={this.props.image} alt="Logo" /></a>
 								</div>
 								<div className="ContainerDescription">
 								<h3 className="titleCard">{this.props.title}</h3>
