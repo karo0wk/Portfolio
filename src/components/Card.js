@@ -8,7 +8,9 @@ class Card extends React.Component {
 								<a target="_blanck_" href={this.props.url}><img  className="imageTipe" src={this.props.image} alt="Logo" /></a>
 								</div>
 								<div className="ContainerDescription">
+								<a target="_blanck_" href={this.props.url}>
 								<h3 className="titleCard">{this.props.title}</h3>
+								</a>
 								<p className="paragraph">{this.props.description}</p>
 	                            <p2 className="paragraph">{this.props.tools}</p2>
 								</div>

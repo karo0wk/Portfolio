@@ -1,11 +1,11 @@
 import React from 'react';
 import '../Main.css';
-import Notes from '../images/proyects/notes2.jpg';
+import Notes from '../images/proyects/nota.jpg';
 import Card from './Card'
 // import Cipher from '../images/proyects/cipher.jpg'
-import ParachuteGame from '../images/proyects/skyPinetree.gif'
+import ParachuteGame from '../images/proyects/cel.jpg'
 // import Burger from '../images/proyects/Burger.jpg'
-import Feebulari from '../images/proyects/fondo_fee_1.jpg'
+import Feebulari from '../images/proyects/idea.jpg'
 import ArteMarusia from '../images/proyects/arte.jpg'
 
 function SectionTwo() {
