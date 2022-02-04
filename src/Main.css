@@ -123,11 +123,8 @@ text-size-adjust:100%;
 	-ms-justify-content: space-between;
 	justify-content: space-between;
 	background-color: #1f1815;
-	background-attachment: scroll,								scroll;
-	background-image: url("images/overlay.jpg");
-	background-position: top left,							top left;
-	background-repeat: repeat,								no-repeat;
-	background-size: auto,								150%;
+	background-image: url("images/mont.jpg");
+	background-size: cover;
 	color: rgba(255, 255, 255, 0.5);
 	height: 100%;
 	left: 0;
@@ -189,7 +186,7 @@ text-size-adjust:100%;
 	margin-left: 30vw;
     padding: 2em 3em 3em 4em;
 	max-width: auto;
-	background-color: rgb(247, 232, 232);
+	background-color: rgb(243 238 235);
 	/* width: 59vw; */
 	
 

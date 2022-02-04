@@ -1,12 +1,15 @@
-import React from 'react';
 import '../Main.css';
-import Notes from '../images/proyects/nota.jpg';
-import Card from './Card'
-// import Cipher from '../images/proyects/cipher.jpg'
-import ParachuteGame from '../images/proyects/cel.jpg'
-// import Burger from '../images/proyects/Burger.jpg'
-import Feebulari from '../images/proyects/idea.jpg'
+
 import ArteMarusia from '../images/proyects/arte.jpg'
+import Card from './Card'
+import CastagramImage from '../images/proyects/catstagram-example.jpeg'
+import Feebulari from '../images/proyects/idea.jpg'
+import Notes from '../images/proyects/nota.jpg';
+import ParachuteGame from '../images/proyects/cel.jpg'
+import React from 'react';
+
+// import Cipher from '../images/proyects/cipher.jpg'
+
 
 function SectionTwo() {
     return(
@@ -20,10 +23,14 @@ function SectionTwo() {
 							<Card title="Arte Marusia" description="This is an ecommerce website for the sale of artistic paintings." 
 							tools="For this project were used: Wordpress, WooCommerce, and Facebook API." image={ArteMarusia} url="https://artemarusia.com/"/>
 							</div>
-						    <div className="row">
+							<div className="row">
+							<Card title="Catstagram" description="This project created with React.js, it consumes the api “TheCatApi”" 
+							tools="Tailwind css, PrimeRact" image={CastagramImage} url="https://carolinaperezflores.github.io/catstagram-react/"/>
+							</div>
+						    {/* <div className="row">
 							<Card title="Take Notes" description="This is a web-app that allows you to make notes, save them in a database and edit them." 
 							tools="For this project were used: React.js, Firebase, and Bootstrap." image={Notes} url="https://carolinaperezflores.github.io/GDL003-lab-notes/"/>
-							</div>
+							</div> */}
 							<div className="row">
 							<Card title="Parachute Game" description="This application designed for cell phones gives you the ability to play to save the paratrooper before it falls." 
 							tools="For this project were used: React Native" image={ParachuteGame} url="https://snack.expo.io/@karo0k/11c1ef"/>
