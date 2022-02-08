@@ -1,15 +1,10 @@
 import '../Main.css';
 
-import ArteMarusia from '../images/proyects/arte.jpg'
 import Card from './Card'
 import CastagramImage from '../images/proyects/catstagram-example.jpeg'
 import Feebulari from '../images/proyects/idea.jpg'
-import Notes from '../images/proyects/nota.jpg';
 import ParachuteGame from '../images/proyects/cel.jpg'
 import React from 'react';
-
-// import Cipher from '../images/proyects/cipher.jpg'
-
 
 function SectionTwo() {
     return(
@@ -17,15 +12,15 @@ function SectionTwo() {
 						<h2>Recent Work</h2>
 						    <div className="row">
 							<Card title="Feebulari" description="This is a web-app used to share ideas with the intention of innovating, in which creators can go." 
-							tools="For this project were used: PHP, MySQL, SASS, Eloquet, and PSR7." image={Feebulari} url="https://www.feebulari.com/"/>
+							tools="For this project were used: PHP, MySQL, SASS, Eloquet, and PSR7." image={Feebulari} url="http://feebulari.site/"/>
 							</div>
-							<div className="row">
+							{/* <div className="row">
 							<Card title="Arte Marusia" description="This is an ecommerce website for the sale of artistic paintings." 
 							tools="For this project were used: Wordpress, WooCommerce, and Facebook API." image={ArteMarusia} url="https://artemarusia.com/"/>
-							</div>
+							</div> */}
 							<div className="row">
 							<Card title="Catstagram" description="This project created with React.js, it consumes the api “TheCatApi”" 
-							tools="Tailwind css, PrimeRact" image={CastagramImage} url="https://carolinaperezflores.github.io/catstagram-react/"/>
+							tools="React JS, Tailwind CSS, PrimeRact." image={CastagramImage} url="https://carolinaperezflores.github.io/catstagram-react/"/>
 							</div>
 						    {/* <div className="row">
 							<Card title="Take Notes" description="This is a web-app that allows you to make notes, save them in a database and edit them." 

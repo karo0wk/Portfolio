@@ -1,5 +1,7 @@
-import React from 'react';
 import '../Main.css'
+
+import React from 'react';
+
 class Card extends React.Component {
     render(){
     return(
@@ -12,7 +14,7 @@ class Card extends React.Component {
 								<h3 className="titleCard">{this.props.title}</h3>
 								</a>
 								<p className="paragraph">{this.props.description}</p>
-	                            <p2 className="paragraph">{this.props.tools}</p2>
+	                            <h2 className="paragraph">{this.props.tools}</h2>
 								</div>
 							</article>
     );

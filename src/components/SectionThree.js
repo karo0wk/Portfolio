@@ -11,7 +11,7 @@ function SectionThree() {
         <h2 className="hDos">Get In Touch</h2>
         <p className="desc">Check the information on the networks and contact me.</p>
         <ul className="icons">
-					 <li className="liIcons"><a target="_blanck_" href="https://linkedin.com/in/ivonne-carolina-pérez-flores-629843193/"><img className="logoInfo" src={Linkedin}  alt="Logo" /></a></li>
+					 <li className="liIcons"><a target="_blanck_" href="https://www.linkedin.com/in/ivonnecarolinapf/"><img className="logoInfo" src={Linkedin}  alt="Logo" /></a></li>
 					 <li className="liIcons"><a target="_blanck_" href="https://github.com/CarolinaPerezFlores"><img className="logoInfo" src={Github}  alt="Logo" /></a></li>
 					 <li className="liIcons"><a target="_blanck_" href="https://drive.google.com/file/d/16MELUIBYJpvcGeiLPPZieSmdEYy5FnQP/view?usp=sharing"><img className="logoInfo" src={Cv}  alt="Logo" /></a></li>
                      </ul>

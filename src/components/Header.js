@@ -22,14 +22,10 @@ class Header extends React.Component {
 					
 				<img className="image avatar" src={Avatar} alt="Logo" />
 			
-					<h1 ><strong>Carolina Flores</strong> <br />
-                     
-					{/* crafted by */}
-					 {/* <link  to="http://loquesea.net">lo que sea</link>. */}
-					 </h1>
-					 <h1 className="title1">Front-End Developer</h1>
+					 <h1 ><strong>Carolina Flores</strong><br /></h1>
+					 <h1 className="title1">Web Developer</h1>
 					 <ul className="icons">
-					 <li className="liIcons"><a target="_blanck_" href="https://linkedin.com/in/ivonne-carolina-pérez-flores-629843193/"><img className="logoInfo" src={Linkedin}  alt="Logo" /></a></li>
+					 <li className="liIcons"><a target="_blanck_" href="https://www.linkedin.com/in/ivonnecarolinapf/"><img className="logoInfo" src={Linkedin}  alt="Logo" /></a></li>
 					 <li className="liIcons"><a target="_blanck_" href="https://github.com/CarolinaPerezFlores"><img className="logoInfo" src={Github}  alt="Logo" /></a></li>
 					 {/* <li><a href="linkedin.com/in/ivonne-carolina-pérez-flores-629843193"><img className="logoInfo" src={Mail}  alt="Logo" /></a></li> */}
 					 <li className="liIcons"><a target="_blanck_" href="https://drive.google.com/file/d/16MELUIBYJpvcGeiLPPZieSmdEYy5FnQP/view?usp=sharing"><img className="logoInfo" src={Cv}  alt="Logo" /></a></li>
@@ -41,7 +37,6 @@ class Header extends React.Component {
 				 href="https://api.whatsapp.com/send?phone=523324260487&text=Hola!&nbsp;me&nbsp;pueden&nbsp;ayudar?"
 				 src={Whatsapp}
 				 >
-					 
 				 </a> */}
 				</div>
 			</div>
