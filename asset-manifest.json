@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6fe1e0df.chunk.css",
-    "main.js": "/portfolio/static/js/main.1d814dda.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.1d814dda.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.49901efc.chunk.css",
+    "main.js": "/portfolio/static/js/main.cd7e67e5.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.cd7e67e5.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.6c1b9ebb.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.6c1b9ebb.js.map",
-    "static/js/2.ddac7945.chunk.js": "/portfolio/static/js/2.ddac7945.chunk.js",
-    "static/js/2.ddac7945.chunk.js.map": "/portfolio/static/js/2.ddac7945.chunk.js.map",
+    "static/js/2.6d9e8b9e.chunk.js": "/portfolio/static/js/2.6d9e8b9e.chunk.js",
+    "static/js/2.6d9e8b9e.chunk.js.map": "/portfolio/static/js/2.6d9e8b9e.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.db1d296d6569a0fd04edad3c1925ed9b.js": "/portfolio/precache-manifest.db1d296d6569a0fd04edad3c1925ed9b.js",
+    "precache-manifest.5f356d3b75bcc42ac1703888fe672aa1.js": "/portfolio/precache-manifest.5f356d3b75bcc42ac1703888fe672aa1.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.6fe1e0df.chunk.css.map": "/portfolio/static/css/main.6fe1e0df.chunk.css.map",
+    "static/css/main.49901efc.chunk.css.map": "/portfolio/static/css/main.49901efc.chunk.css.map",
     "static/media/Avatar.jpg": "/portfolio/static/media/Avatar.0f9eae63.jpg",
-    "static/media/arte.jpg": "/portfolio/static/media/arte.76488a13.jpg",
+    "static/media/catstagram-example.jpeg": "/portfolio/static/media/catstagram-example.a2762073.jpeg",
     "static/media/cel.jpg": "/portfolio/static/media/cel.4cc7ad6d.jpg",
     "static/media/idea.jpg": "/portfolio/static/media/idea.69da81c5.jpg",
-    "static/media/nota.jpg": "/portfolio/static/media/nota.de522a4a.jpg",
-    "static/media/Main.css": "/portfolio/static/media/overlay.ebedbf73.jpg"
+    "static/media/Main.css": "/portfolio/static/media/mont.963f4e2d.jpg"
   }
 }
